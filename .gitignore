@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+src/env/venv.env
+poetry.lock
+src/start_docker.bat
+
